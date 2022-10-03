@@ -1,0 +1,76 @@
+.field {
+    width: 500px;
+    padding: 20px 0;
+    display: block;
+}
+
+
+.field label {
+    display: block;
+    height: 100px;
+    width: 100%;
+}
+
+
+.field label input {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    outline: none;
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    padding: 0 15px;
+    background-color: rgba(22, 26, 31, 0.8);
+}
+
+
+.field input::placeholder {
+    color: white;
+}
+
+
+.error {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 5px;
+    color: #AC0000;
+    text-transform: uppercase;
+}
+
+
+.submit {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+
+    transition: all 0.2s linear;
+}
+
+
+.btn-add {
+    outline: none;
+    border: none;
+}
+
+
+.btn-dictionary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.submit:hover {
+    color: black;
+    background-color: white;
+}
+

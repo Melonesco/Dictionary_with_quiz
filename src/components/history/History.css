@@ -1,0 +1,83 @@
+.history {
+    width: 100vh;
+    height: 80vh;
+    background-color: rgba(112, 128, 144, 0.6);
+    border-radius: 10px;
+    padding: 40px;
+    overflow: scroll;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+
+
+.history-title {
+    display: block;
+    font-size: 50px;
+}
+
+
+.history-results {
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+
+.history-scores {
+    font-size: 20px;
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.history-scores p {
+    width: 80px;
+    letter-spacing: 2px;
+}
+
+
+.history-scores span {
+    color: black;
+    width: 30px;
+}
+
+
+.history-activity {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+
+.history-activity div {
+    font-size: 12px;
+}
+
+
+.history-btn{
+    right: 0;
+    position: absolute;
+    margin: 10px auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+
+    transition: all 0.2s linear;
+}
+
+
+.history-btn:hover {
+    background-color: white;
+    color: black;
+}

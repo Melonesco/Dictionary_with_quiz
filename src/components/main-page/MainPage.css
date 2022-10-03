@@ -1,0 +1,44 @@
+.main-title {
+    background-color: rgba(151, 153, 155, 0.7);
+    width: 500px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    color: darkslateblue;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+
+.button-start {
+    width: 500px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button-start a {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: black;
+    width: 160px;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.2s linear;
+}
+
+
+.button-start a:hover {
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,146 @@
+{
+  "words": [
+    {
+      "id": "d4ca0296-2fa6-4c89-aa5d-4148347a25cf",
+      "firstWord": "dog",
+      "secondWord": "собака"
+    },
+    {
+      "id": "ee88c8f6-79f8-424a-89bd-9d0070b917eb",
+      "firstWord": "cat",
+      "secondWord": "кіт"
+    },
+    {
+      "id": "cd2c7195-898d-438f-8230-311ed5d66f07",
+      "firstWord": "pig",
+      "secondWord": "свиня"
+    },
+    {
+      "id": "95900712-906c-4d6d-a68d-3d696f4e30ba",
+      "firstWord": "fish",
+      "secondWord": "риба"
+    },
+    {
+      "id": "51594538-1704-4454-b087-6d9db7c244d7",
+      "firstWord": "sun",
+      "secondWord": "сонце"
+    },
+    {
+      "id": "7c8c19dd-22f9-4d56-b128-30f0ad813eb1",
+      "firstWord": "hello",
+      "secondWord": "привіт"
+    },
+    {
+      "id": "47f8237b-666b-450b-b2d6-9135b1d00cae",
+      "firstWord": "table",
+      "secondWord": "стіл"
+    },
+    {
+      "id": "ba4fa4bd-d06f-4239-a61a-fa7b64f4288e",
+      "firstWord": "knife",
+      "secondWord": "ніж"
+    },
+    {
+      "id": "93f95c0a-d827-47b8-a928-c291547a1e6b",
+      "firstWord": "car",
+      "secondWord": "машина"
+    },
+    {
+      "id": "2c474c19-18bd-44fd-9148-a2076ddd9bdb",
+      "firstWord": "fox",
+      "secondWord": "лисиця"
+    },
+    {
+      "id": "86c256b0-a137-4c67-a038-f4c5464f4a1f",
+      "firstWord": "cow",
+      "secondWord": "корова"
+    },
+    {
+      "id": "70462eb7-56e3-41a9-b089-c730b23efecd",
+      "firstWord": "word",
+      "secondWord": "слово"
+    },
+    {
+      "id": "0d8a474c-6b99-4ae1-8d29-6fc3e5f924a8",
+      "firstWord": "orange",
+      "secondWord": "оранжевий"
+    },
+    {
+      "id": "9aa29cbf-d64a-4f5b-b5dd-c04ede497c78",
+      "firstWord": "red",
+      "secondWord": "червоний"
+    },
+    {
+      "id": "54e0cc98-f21b-48a1-8ae9-91e16bf208ae",
+      "firstWord": "green",
+      "secondWord": "зелений"
+    },
+    {
+      "id": "5a1efd61-1f5f-4a0e-9bcd-06c64aaf7cd8",
+      "firstWord": "yellow",
+      "secondWord": "жовтий"
+    },
+    {
+      "id": "5182fb60-4a72-4faf-968f-a5db099b33f7",
+      "firstWord": "pink",
+      "secondWord": "рожевий"
+    },
+    {
+      "id": "3ed2356e-956f-4214-aa94-0f5025f92aba",
+      "firstWord": "summer",
+      "secondWord": "літо"
+    },
+    {
+      "id": "ccb7f0ee-08e1-48bc-8e4e-103910177a41",
+      "firstWord": "winter",
+      "secondWord": "зима"
+    },
+    {
+      "id": "459cf180-14b2-4ae1-851f-8c20c30f75e8",
+      "firstWord": "apple",
+      "secondWord": "яблуко"
+    },
+    {
+      "id": "5cc744da-678e-4f64-a968-452abd2c8d1c",
+      "firstWord": "banana",
+      "secondWord": "банан"
+    },
+    {
+      "id": "848ec4ea-027a-4b9d-8c31-db4f336d3b1c",
+      "firstWord": "good",
+      "secondWord": "добре"
+    },
+    {
+      "id": "58c8808a-8c25-4ef4-b94c-a36a21c04e46",
+      "firstWord": "sorry",
+      "secondWord": "вибач"
+    },
+    {
+      "id": "5e982a9c-7334-4d0c-aa5e-73fb910703c9",
+      "firstWord": "bus",
+      "secondWord": "автобус"
+    }
+  ],
+  "media": [
+    {
+      "id": 22,
+      "name": "Nazar",
+      "age": 20
+    },
+    {
+      "id": 26,
+      "name": "Igor",
+      "age": 20
+    },
+    {
+      "id": 27,
+      "name": "Petro",
+      "age": 20
+    },
+    {
+      "firstWord": "Max",
+      "secondWord": "Just",
+      "id": 28
+    }
+  ]
+}
